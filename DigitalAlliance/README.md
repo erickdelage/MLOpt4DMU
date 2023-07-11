@@ -5,7 +5,7 @@
 
 ## Creating a CCDB account
 
-Start by creating an account on: https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/.  While creating your account you will need to provide the CCRI of your sponsor/faculty member (Erick's CCRI is: iee-073-01). Your sponsor/Erick will then receive an email to approve your membership. Once your account is approved (which should be fast), you can login at the ccdb website at https://ccdb.alliancecan.ca/. You can use `My Account -> Request access to other clusters` to get access to Niagara and Mist, the two clusters you need to apply to access. You have automatically access Cedar, Narval, Beluga, and Graham.
+Start by creating an account on: https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/.  While creating your account you will need to provide the CCRI of your sponsor/faculty member (e.g. Erick's CCRI is: iee-073-01). Your sponsor will then receive an email to approve your membership. Once your account is approved (which should be fast), you can contact Nima Akbarzadeh (akbarzadeh.nima@gmail.com) and send him your CCRI requesting that he adds you to the resource allocation program. When this is done, you can login at the ccdb website at https://ccdb.alliancecan.ca/ to confirm that you have access to high priority computing on Beluga through the project identifier rrg-adulyasa [xxc-506-ab].
 
 ## ssh
 
