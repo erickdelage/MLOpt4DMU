@@ -133,7 +133,7 @@ The recommended way of moving code is via `git` and github. For small files (few
 #!/bin/bash
 #SBATCH --job-name=RLTest
 #SBATCH --mail-user=your_email
-#SBATCH --account=def-edelage #use either rrg-adulyasa (Beluga), rrg-edelage (Cedar), or def-edelage (others)
+#SBATCH --account=rrg-adulyasa
 #SBATCH --ntasks=1
 #SBATCH --mem-per-cpu=2G
 #SBATCH --cpus-per-task=1
